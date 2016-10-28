@@ -597,6 +597,11 @@ class IsoCountryCodes
       self.alpha2  = %q{KR}
       self.alpha3  = %q{KOR}
     end
+    class XKX < Code #:nodoc:
+      self.numeric = %q{780}
+      self.alpha2  = %q{XK}
+      self.alpha3  = %q{XKX}
+    end
     class KWT < Code #:nodoc:
       self.numeric = %q{414}
       self.alpha2  = %q{KW}

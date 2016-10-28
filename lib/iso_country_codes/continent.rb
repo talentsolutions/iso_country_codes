@@ -554,6 +554,9 @@ class IsoCountryCodes
     class PRY < Code #:nodoc:
       self.continent = 'SA'
     end
+    class XKX < Code #:nodoc:
+      self.continent = 'EU'
+    end
     class QAT < Code #:nodoc:
       self.continent = 'AS'
     end

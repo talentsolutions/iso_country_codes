@@ -3,6 +3,9 @@ class IsoCountryCodes
     class GBR < Code #:nodoc:
       self.calling = '+44'
     end
+    class XKX < Code #:nodoc:
+      self.calling = '+383'
+    end
     class FJI < Code #:nodoc:
       self.calling = '+679'
     end

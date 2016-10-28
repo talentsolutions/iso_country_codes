@@ -3,6 +3,9 @@ class IsoCountryCodes
     class GBR < Code #:nodoc:
       self.main_currency = 'GBP'
     end
+    class XKX < Code #:nodoc:
+      self.main_currency = 'EUR'
+    end
     class FJI < Code #:nodoc:
       self.main_currency = 'FJD'
     end
