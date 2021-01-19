@@ -1133,7 +1133,7 @@ class IsoCountryCodes
       self.alpha3  = %q{TON}
     end
     class TTO < Code #:nodoc:
-      self.numeric = %q{780}
+      self.numeric = %q{781}
       self.alpha2  = %q{TT}
       self.alpha3  = %q{TTO}
     end
